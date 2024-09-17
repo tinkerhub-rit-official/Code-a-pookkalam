@@ -32,27 +32,32 @@ Your Pookkalam will be judged based on the following:
 - **Creativity**: How creative and original is your design?
 - **Complexity**: How complex is the logic behind your Pookkalam?
 - **Aesthetic Appeal**: How beautiful is the final output?
-- **Code Quality**: Is your code well-structured, documented, and efficient?
+
 
 ## 🔗 How to Participate
 
-1. **Register for the competition**: [Insert Registration Link]
-2. After registration, create a GitHub repository titled `Code-a-Pookkalam-2024`.
-3. Push your code to the repository and submit the link through the form provided before the deadline.
+1. **Register for the competition**: https://forms.gle/VA2rrXfpEJmT5MA4A
+2. After registration, create a GitHub repository titled `Code-a-Pookkalam-2024` or any name you prefer.
+3. Push your code to the repository and submit the link through the submission form before the deadline. This submission form will be provided through the WhatsApp group. [See how to use github](/get-started.md#Submitting YourCodeviaGitHub)
 
 ## 📅 Timeline
 
-- **Kickoff**: [Insert date]
-- **Submission Deadline**: [Insert date]
-- **Winners Announcement**: [Insert date]
+- **Kickoff**: 17/08/2024
+- **Submission Deadline**: 23/08/2024
+- **Winners Announcement**: 25/08/2024
+
+## 🌱 First time?
+
+
 
 ## ✨ Get Inspired
 
 Here are some Pookkalam designs from previous years to spark your creativity:
 
-- [Sample 1]
-- [Sample 2]
-- [Sample 3]
+<img src="./asset/sample/sample1.svg" alt="https://mon.school/alby_joseph">
+<img src="./asset/sample/sample2.svg" alt="https://mon.school/hemanth_s">
+<img src="./asset/sample/sample3.svg" alt="https://mon.school/Annet%20Maria%20Cyriac">
+
 
 ## 🎉 About TinkerHub RIT
 
