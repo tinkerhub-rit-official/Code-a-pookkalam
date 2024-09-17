@@ -5,6 +5,8 @@
 
 Welcome to the **Code-a-Pookkalam** competition hosted by **TinkerHub RIT**! This is a fun and creative coding competition where participants have to code their very own **Pookkalam** (floral design) using programming skills. The challenge is conducted every year during **Onam** to celebrate the spirit of the festival with a technical twist!
 
+**Visit [firs-time-guide](./first-time-guide.md) for a guide on getting started to code a pookkalam**
+
 ## 🎨 What is a Pookkalam?
 
 A **Pookkalam** is a traditional floral decoration made with colorful flowers, laid out in intricate patterns during the Onam festival in Kerala. In **Code-a-Pookkalam**, participants will replicate this art using code!
