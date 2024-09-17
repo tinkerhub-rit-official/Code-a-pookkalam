@@ -43,7 +43,7 @@ Your Pookkalam will be judged based on the following:
 
 1. **Register for the competition**: [https://forms.gle/VA2rrXfpEJmT5MA4A](https://forms.gle/VA2rrXfpEJmT5MA4A)
 2. After registration, create a GitHub repository titled `Code-a-Pookkalam-2024` or any name you prefer.
-3. Push your code to the repository and submit the link through the submission form before the deadline. This submission form will be provided through the WhatsApp group. [See how to use github](/get-started.md#-submitting-your-code-via-github)
+3. Push your code to the repository and submit the link through the submission form before the deadline. This submission form will be provided through the WhatsApp group. [See how to use github](/first-time-guide.md#-submitting-your-code-via-github)
 
 ## 📅 Timeline
 
