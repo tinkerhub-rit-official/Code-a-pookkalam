@@ -71,7 +71,7 @@ Here are some Pookkalam designs from previous years to spark your creativity:
 </p>
 
 
-See more https://mon.school/code-a-pookkalam
+See more [https://mon.school/code-a-pookkalam](https://mon.school/code-a-pookkalam)
 
 ## 🎉 About TinkerHub RIT
 
