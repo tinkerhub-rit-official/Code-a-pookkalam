@@ -5,7 +5,7 @@
 
 Welcome to the **Code-a-Pookkalam** competition hosted by **TinkerHub RIT**! This is a fun and creative coding competition where participants have to code their very own **Pookkalam** (floral design) using programming skills. The challenge is conducted every year during **Onam** to celebrate the spirit of the festival with a technical twist!
 
-**Visit [firs-time-guide](./first-time-guide.md) for a guide on getting started to code a pookkalam**
+**Visit [first-time-guide](./first-time-guide.md) for a guide on getting started to code a pookkalam**
 
 ## 🎨 What is a Pookkalam?
 
@@ -13,8 +13,8 @@ A **Pookkalam** is a traditional floral decoration made with colorful flowers, l
 
 ## 🏆 Competition Details
 
-- **Event Date**: 17/08/2024
-- **Prize**: ₹1000
+- **Event Date**: 17/09/2024 to 23/09/2024
+- **Prize Pool**: ₹1000
 - **Open To**: All students with a passion for coding and creativity!
 - **Platform**: The registration and submission is handled through google forms. The code is submitted as a github repo.
 
@@ -47,9 +47,9 @@ Your Pookkalam will be judged based on the following:
 
 ## 📅 Timeline
 
-- **Kickoff**: 17/08/2024
-- **Submission Deadline**: 23/08/2024
-- **Winners Announcement**: 25/08/2024
+- **Kickoff**: 17/09/2024
+- **Submission Deadline**: 23/09/2024
+- **Winners Announcement**: 25/09/2024
 
 ## 🌱 First time?
 
