@@ -39,7 +39,7 @@ Your Pookkalam will be judged based on the following:
 
 ## 🔗 How to Participate
 
-1. **Register for the competition**: https://forms.gle/VA2rrXfpEJmT5MA4A
+1. **Register for the competition**: [https://forms.gle/VA2rrXfpEJmT5MA4A](https://forms.gle/VA2rrXfpEJmT5MA4A)
 2. After registration, create a GitHub repository titled `Code-a-Pookkalam-2024` or any name you prefer.
 3. Push your code to the repository and submit the link through the submission form before the deadline. This submission form will be provided through the WhatsApp group. [See how to use github](/get-started.md#-submitting-your-code-via-github)
 
@@ -80,7 +80,7 @@ Stay connected with us on social media for updates, announcements, and more!
 - **Instagram**: [Follow us on Instagram](https://instagram.com/tinkerhub.rit)
 - **LinkedIn**: [Connect with us on LinkedIn](https://www.linkedin.com/company/tinkerhub-rit)
 - **Github**: [Follow us on Github](https://github.com/tinkerhub-rit-official)
-- **Any queries?**: Mail us at tinkerhub@rit.ac.in
+- **Any queries?**: Mail us at [tinkerhub@rit.ac.in](tinkerhub@rit.ac.in)
 
 Don't forget to tag us and use the hashtag **#CodeAPookkalam** when sharing your Pookkalam creations!
 
